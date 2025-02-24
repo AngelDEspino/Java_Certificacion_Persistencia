@@ -13,9 +13,7 @@ public class OperacionesContactos {
 //		System.out.println("nombre: " + contacto.getNombre());
 //		System.out.println("edad: " + contacto.getEdad());
 //		System.out.println("email: " + contacto.getCorreo());
-		
-
-		
+				
 //		Contacto contacto= new Contacto(0,"juanitoJPA", "jpa@gmads.com",22);
 //		service.altaContacto(contacto);
 //		System.out.println("Añadido!");
